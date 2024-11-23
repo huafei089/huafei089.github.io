@@ -24,3 +24,13 @@ Clsh为例子，导入节点后，打开梯子
 
 **苹果用户**
 
+<p>这是一个重要链接：<a href="https://www.example.com" target="_blank">
+  <button style="
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  ">点击打开网址</button>
+</a></p>
