@@ -22,6 +22,13 @@ Clsh为例子，导入节点后，打开梯子
 
 
 
-**苹果用户**
 
-<font color=red> 红色 </font>
+-------
+
+✈️机场推荐
+一元机场：12一年，性价比超高！[注册地址](https://xn--4gq62f.com/#/register?code=CLONhlZF)
+星遇：注册送50G，免费用！[注册地址](https://px.xinyo.vip/#/register?code=mVzc4XAd)
+
+
+-------
+
