@@ -30,7 +30,7 @@ Clsh为例子，导入节点后，打开梯子
 ✈️机场推荐
 一元机场：12一年，性价比超高！[注册地址](https://xn--4gq62f.com/#/register?code=CLONhlZF)
 星遇：注册送50G，免费用！[注册地址](https://px.xinyo.vip/#/register?code=mVzc4XAd)
-
+98k[最低59一年](http://38.47.103.74:52020/#/register?code=FcTVU1xV)
 
 -------
 
